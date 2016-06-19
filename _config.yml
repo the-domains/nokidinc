@@ -1,0 +1,14 @@
+layout_spectrum: 0.5574272046796978
+typography_spectrum: 0.278726858086884
+color:
+  brandStrength: 0.42160207917913795
+  lightness: 0.5308485922869295
+  saturation: 0.12535557337105274
+  rhythmicContrast: 0.2237196508795023
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: nokidinc
